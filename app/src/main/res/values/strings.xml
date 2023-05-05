@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculo de dose</string>
+    <string name="C1">C1</string>
+    <string name="C2">C2</string>
+    <string name="C3">C3</string>
+    <string name="C4">C4</string>
+    <string name="C5">C5</string>
+    <string name="barra">Barra</string>
+    <string name="barra2">Barra1</string>
+    <string name="barra3">Barra2</string>
+    <string name="barra4">Barra3</string>
+    <string name="barra5">Barra4</string>
+    <string name="T1">T1</string>
+    <string name="T2">T2</string>
+    <string name="T3">T3</string>
+    <string name="T4">T4</string>
+    <string name="T5">T5</string>
+    <string name="doSimetro">Dosimetro</string>
+    <string name="txtUM">+</string>
+    <string name="txtDois">Calcular</string>
+    <string name="btnOutraTela">Prosseguir</string>>
+    <string name="Resultado">Resultado:</string>
+    <string name="Calculo">Quantidade de intervalos </string>
+    <string name="Perigo">Apresenta risco:</string>
+</resources>
